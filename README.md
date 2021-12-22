@@ -1,2 +1,2 @@
 # Do-Your-Thing
-### Incomplete
+You can add tasks, but the page will reset once reloaded, as I haven't used localstorage for it yet, it still has to be done...
